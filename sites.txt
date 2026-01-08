@@ -15,3 +15,5 @@ poki.com
 www.minijuegos.com
 eaglercraft.com
 tlauncher.org
+garena.com
+content.garena.com
