@@ -18,6 +18,9 @@ tlauncher.org
 garena.com
 content.garena.com
 roblox.com
+www.roblox.com
+css.rbxcdn.com
+realtime.roblox.com
 ecsv2.roblox.com // BIGGEST TRACKER. Uses a lot of data.
 ncs.roblox.com
 client-telemetry.roblox.com
