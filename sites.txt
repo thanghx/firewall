@@ -38,3 +38,4 @@ ord2-128-116-101-3.roblox.com
 lms.roblox.com
 metrics.roblox.com
 tracing.roblox.com
+xcdn.cloud
