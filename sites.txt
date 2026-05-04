@@ -20,6 +20,9 @@ content.garena.com
 roblox.com
 www.roblox.com
 css.rbxcdn.com
+apis.rbxcdn.com
+auth.roblox.com
+locale.roblox.com
 realtime.roblox.com
 ecsv2.roblox.com // BIGGEST TRACKER. Uses a lot of data.
 ncs.roblox.com
